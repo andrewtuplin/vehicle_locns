@@ -1,0 +1,8 @@
+Model Information:
+* title:	Haul Truck
+* source:	https://sketchfab.com/3d-models/haul-truck-7384e5abc9154a31afe3671a509d978b
+* author:	CG Duck (https://sketchfab.com/cg_duck)
+
+Model License:
+* license type:	SKETCHFAB Editorial (https://sketchfab.com/licenses)
+* requirements:	Use only in connection with events that are newsworthy or of public interest
